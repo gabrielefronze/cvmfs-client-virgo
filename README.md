@@ -37,7 +37,7 @@ To install, proceed according to the following steps:
 5. Check if CernVM-FS mounts the specified repositories by `cvmfs_config probe`. If the probe fails, try to restart autofs with `sudo service autofs restart`.-->
 
 ## 2. Public keys installation
-The public keys needed for the access to the `virgo.ego-gw.it` CVMFS repository can be installed using this `.rpm` package [link]().
+The public keys needed for the access to the `virgo.ego-gw.it` CVMFS repository can be installed using this `.rpm` package contained in this repo at [link](https://github.com/gabrielefronze/cvmfs-client-virgo/raw/master/cvmfs-virgo.ego-gw.it-pub-key.rpm).
 Download the linked file and install it via:
 
 ```

@@ -54,7 +54,7 @@ To uninstall them it is enough to run:
 
 
 ## 3. Virgo specific settings
-Once the CVMFS client and the public keys `.rpm` have been correctly installed one can proceed with the creation of the file `/etc/cvmfs/config.d/virgo.ego-gw.it.conf`.
+Once the CVMFS client and the public keys `.rpm` have been correctly installed one can proceed with the creation of the file `/etc/cvmfs/config.d/virgo.ego-gw.it.local`.
 
 The file must include several lines:
 
